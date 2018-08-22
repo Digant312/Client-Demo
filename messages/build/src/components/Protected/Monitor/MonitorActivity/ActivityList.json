@@ -1,0 +1,26 @@
+[
+  {
+    "id": "activities.newBookActivity",
+    "defaultMessage": "{userName} created a new book {link}"
+  },
+  {
+    "id": "activities.amendBookActivity",
+    "defaultMessage": "{userName} amended a book {link}"
+  },
+  {
+    "id": "activities.retireBookActivity",
+    "defaultMessage": "{userName} retired a book {link}"
+  },
+  {
+    "id": "activities.newTransactionActivity",
+    "defaultMessage": "{userName}: {action} {quantity} {assetId} at {price} - {link}"
+  },
+  {
+    "id": "activities.amendTransactionActivity",
+    "defaultMessage": "{userName} amended transaction {link} to {action} {quantity} {assetId} at {price}"
+  },
+  {
+    "id": "activities.deleteTransactionActivity",
+    "defaultMessage": "{userName} cancelled a transaction {link}"
+  }
+]

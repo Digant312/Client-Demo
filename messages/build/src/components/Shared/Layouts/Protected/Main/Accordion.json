@@ -1,0 +1,18 @@
+[
+  {
+    "id": "bookSelector.bookSelector",
+    "defaultMessage": "Book Selector"
+  },
+  {
+    "id": "bookSelector.selectAll",
+    "defaultMessage": "Select All"
+  },
+  {
+    "id": "bookSelector.clearAll",
+    "defaultMessage": "Clear All"
+  },
+  {
+    "id": "bookSelector.loading",
+    "defaultMessage": "Loading Book Selector"
+  }
+]

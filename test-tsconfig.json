@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "moduleResolution": "node",
+    "target": "es2015", // compile to ES2015 (Babel will do the rest)
+    "allowSyntheticDefaultImports": true, // see below
+    "baseUrl": "src", // enables you to import relative to this folder
+    "sourceMap": true, // make TypeScript generate sourcemaps
+    "outDir": "ts-build", // output directory to build to (irrelevant because we use Webpack most of the time)
+    "jsx": "react", // the preserve option is not supported in ts-jest
+    "strict": true
+  },
+  "exclude": [
+    "node_modules" // don't run on any code in the node_modules directory
+  ]
+}

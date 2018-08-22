@@ -1,0 +1,10 @@
+[
+  {
+    "id": "dataMigration.dropFileMessage",
+    "defaultMessage": "Drop {fileType} here... (only '.csv' files are accepted)"
+  },
+  {
+    "id": "dataMigration.uploadFileButtonlabel",
+    "defaultMessage": "Upload {fileType}"
+  }
+]

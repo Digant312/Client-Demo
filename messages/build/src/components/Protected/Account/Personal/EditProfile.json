@@ -1,0 +1,22 @@
+[
+  {
+    "id": "editProfile.modalHeader",
+    "defaultMessage": "Edit Profile Information"
+  },
+  {
+    "id": "editProfile.cancel",
+    "defaultMessage": "Cancel"
+  },
+  {
+    "id": "editProfile.save",
+    "defaultMessage": "Save"
+  },
+  {
+    "id": "editProfile.loadingProfile",
+    "defaultMessage": "Loading Profile"
+  },
+  {
+    "id": "editProfile.updateError",
+    "defaultMessage": "Error updating profile, please try again"
+  }
+]

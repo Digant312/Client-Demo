@@ -1,0 +1,66 @@
+[
+  {
+    "id": "transactionForm.newEquityTransaction",
+    "defaultMessage": "New Equity Transaction"
+  },
+  {
+    "id": "transactionForm.editEquityTransaction",
+    "defaultMessage": "Edit Equity Transaction"
+  },
+  {
+    "id": "transactionForm.readOnlyEquityTransaction",
+    "defaultMessage": "Equity Transaction"
+  },
+  {
+    "id": "transactionForm.newFXTransaction",
+    "defaultMessage": "New FX Transaction"
+  },
+  {
+    "id": "transactionForm.editFXTransaction",
+    "defaultMessage": "Edit FX Transaction"
+  },
+  {
+    "id": "transactionForm.readOnlyFXTransaction",
+    "defaultMessage": "FX Transaction"
+  },
+  {
+    "id": "transactionForm.newFuturesTransaction",
+    "defaultMessage": "New Futures Transaction"
+  },
+  {
+    "id": "transactionForm.editFuturesTransaction",
+    "defaultMessage": "Edit Futures Transaction"
+  },
+  {
+    "id": "transactionForm.readOnlyFuturesTransaction",
+    "defaultMessage": "Futures Transaction"
+  },
+  {
+    "id": "transactionForm.newGenericTransaction",
+    "defaultMessage": "New Transaction"
+  },
+  {
+    "id": "transactionForm.editGenericTransaction",
+    "defaultMessage": "Edit Transaction"
+  },
+  {
+    "id": "transactionForm.readOnlyGenericTransaction",
+    "defaultMessage": "Transaction"
+  },
+  {
+    "id": "transactionForm.newCashTransaction",
+    "defaultMessage": "New Cash Transaction"
+  },
+  {
+    "id": "transactionForm.editCashTransaction",
+    "defaultMessage": "Edit Cash Transaction"
+  },
+  {
+    "id": "transactionForm.readOnlyCashTransaction",
+    "defaultMessage": "Cash Transaction"
+  },
+  {
+    "id": "transactionForm.saveLabel",
+    "defaultMessage": "Save"
+  }
+]

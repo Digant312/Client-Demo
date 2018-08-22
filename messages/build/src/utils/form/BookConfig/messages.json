@@ -1,0 +1,62 @@
+[
+  {
+    "id": "books.bookId",
+    "defaultMessage": "Book Name"
+  },
+  {
+    "id": "books.description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "books.bookType",
+    "defaultMessage": "Book Type"
+  },
+  {
+    "id": "books.owningParty",
+    "defaultMessage": "Owning Party"
+  },
+  {
+    "id": "books.tradingOwner",
+    "defaultMessage": "Trading Owner"
+  },
+  {
+    "id": "books.businessUnit",
+    "defaultMessage": "Business Unit"
+  },
+  {
+    "id": "books.baseCurrency",
+    "defaultMessage": "Base Currency"
+  },
+  {
+    "id": "books.closeTime",
+    "defaultMessage": "Close Time"
+  },
+  {
+    "id": "books.timezone",
+    "defaultMessage": "Timezone"
+  },
+  {
+    "id": "books.bookStatus",
+    "defaultMessage": "Book Status"
+  },
+  {
+    "id": "books.read",
+    "defaultMessage": "Read"
+  },
+  {
+    "id": "books.write",
+    "defaultMessage": "Write"
+  },
+  {
+    "id": "books.none",
+    "defaultMessage": "None"
+  },
+  {
+    "id": "books.reference",
+    "defaultMessage": "Reference"
+  },
+  {
+    "id": "books.displayName",
+    "defaultMessage": "Name"
+  }
+]

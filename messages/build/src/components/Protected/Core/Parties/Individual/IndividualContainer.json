@@ -1,0 +1,10 @@
+[
+  {
+    "id": "parties.confirmIndividualDeActiveMessage",
+    "defaultMessage": "Are you sure you want to deactivate {partyId} ?"
+  },
+  {
+    "id": "parties.confirmIndividualActiveMessages",
+    "defaultMessage": "Are you sure you want to reactivate {partyId} ?"
+  }
+]

@@ -1,0 +1,134 @@
+$themeColour: #95bc49;
+$darkColour: #404040;
+
+html,
+body,
+#root,
+#root > div {
+  height: 100%;
+}
+
+.div-height-fill {
+  height: 100%;
+}
+
+.dark {
+  background-color: $darkColour;
+}
+
+.ui.basic.segment.pushable {
+  overflow: visible;
+}
+
+/* For Grid */
+
+.column-inner-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 0;
+  .column-inner-column {
+    flex: 1;
+    word-break: break-word;
+    padding: 0 5px;
+    margin: auto;
+    &.compact {
+      word-break: normal;
+      flex: 0;
+    }
+  }
+}
+
+.column-inner-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.links {
+  padding: 0 !important;
+}
+
+.links-group-container {
+  padding: 0 30px;
+}
+
+.link-group {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 0;
+}
+
+.add-link-btn {
+  margin-top: 5px;
+}
+
+.ui.form {
+  .read-only-form-value {
+    display: flex;
+    align-items: center;
+    min-height: 34px;
+  }
+  &.tiny {
+    .read-only-form-value {
+      min-height: 0;
+    }
+  }
+}
+
+/******** React Table CSS overrides ********/
+
+.ReactTable {
+  border: none;
+}
+
+.ReactTable .rt-thead.-header {
+  box-shadow: none;
+  background-color: #95bc49;
+  border-radius: 4px;
+}
+
+.ReactTable .rt-tr {
+  border-radius: 4px;
+}
+
+.ReactTable .rt-tr .rt-th:nth-child(1) {
+  border-radius: 4px 0 0 4px;
+}
+
+.ReactTable .rt-tr .rt-th:last-child {
+  border-radius: 0 4px 4px 0;
+}
+
+.ReactTable .rt-thead .rt-th {
+  border-color: #6b8140;
+}
+
+.ReactTable .rt-thead .rt-resizable-header-content {
+  height: 30px;
+  line-height: 30px;
+  color: white;
+}
+
+.ReactTable .rt-thead .rt-th.-sort-asc,
+.ReactTable .rt-thead .rt-th.-sort-desc {
+  background-color: #6b8140;
+}
+
+.ReactTable .rt-thead.-filters,
+.ReactTable .rt-tbody .rt-tr-group {
+  border-bottom: none;
+}
+
+.ReactTable .-pagination {
+  /* background-color: #ffffff; */
+  background-color: rgba(255, 255, 255, 0);
+  box-shadow: none;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.ReactTable .rt-tbody .rt-td {
+  display: flex;
+  align-items: center;
+  border-right: none;
+}

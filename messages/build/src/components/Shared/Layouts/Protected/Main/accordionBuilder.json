@@ -1,0 +1,10 @@
+[
+  {
+    "id": "bookSelectorNode.selectAll",
+    "defaultMessage": "Select All"
+  },
+  {
+    "id": "bookSelectorNode.clearAll",
+    "defaultMessage": "Clear All"
+  }
+]

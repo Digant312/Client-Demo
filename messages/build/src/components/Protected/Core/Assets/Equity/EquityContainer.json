@@ -1,0 +1,10 @@
+[
+  {
+    "id": "assets.confirmEquityInActiveMessage",
+    "defaultMessage": "Are you sure you want to deactivate {assetId} ?"
+  },
+  {
+    "id": "assets.confirmEquityReactivateMessage",
+    "defaultMessage": "Are you sure you want to reactivate {assetId} ?"
+  }
+]

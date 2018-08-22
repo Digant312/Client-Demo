@@ -1,0 +1,102 @@
+[
+  {
+    "id": "books.booksLabel",
+    "defaultMessage": "Books"
+  },
+  {
+    "id": "books.permissions",
+    "defaultMessage": "Permissions"
+  },
+  {
+    "id": "books.bookUpdateToastMessage",
+    "defaultMessage": "Book updated successfully"
+  },
+  {
+    "id": "books.bookAddToastMessage",
+    "defaultMessage": "Book added successfully"
+  },
+  {
+    "id": "books.bookRetireToastMessage",
+    "defaultMessage": "Book retired successfully"
+  },
+  {
+    "id": "books.bookReactivateToastMessage",
+    "defaultMessage": "Book Unretired successfully"
+  },
+  {
+    "id": "books.bookAddFailedToastMessage",
+    "defaultMessage": "Unable to add Book"
+  },
+  {
+    "id": "books.bookUpdateFailedToastMessage",
+    "defaultMessage": "Unable to update Book"
+  },
+  {
+    "id": "bookPermissions.editPermissions",
+    "defaultMessage": "Edit Permissions"
+  },
+  {
+    "id": "books.retire",
+    "defaultMessage": "Retire"
+  },
+  {
+    "id": "books.reactivate",
+    "defaultMessage": "Unretire"
+  },
+  {
+    "id": "books.bookRetireFailedToastMessage",
+    "defaultMessage": "Unable to retire Book"
+  },
+  {
+    "id": "books.bookReactivateFailedToastMessage",
+    "defaultMessage": "Unable to Unretire Book"
+  },
+  {
+    "id": "books.confirmRetireHeading",
+    "defaultMessage": "Retire Book?"
+  },
+  {
+    "id": "books.confirmRetireMessage",
+    "defaultMessage": "Are you sure you want to retire Book?"
+  },
+  {
+    "id": "books.confirmReactivateHeading",
+    "defaultMessage": "Unretire Book?"
+  },
+  {
+    "id": "books.confirmReactivateMessage",
+    "defaultMessage": "Are you sure you want to Unretire Book?"
+  },
+  {
+    "id": "books.addBookButtonLabel",
+    "defaultMessage": "Add Book"
+  },
+  {
+    "id": "books.cancelButtonLabel",
+    "defaultMessage": "Cancel"
+  },
+  {
+    "id": "books.addButtonLabel",
+    "defaultMessage": "Add"
+  },
+  {
+    "id": "books.updateButtonLabel",
+    "defaultMessage": "Update"
+  },
+  {
+    "id": "books.action",
+    "defaultMessage": "Action"
+  },
+  {
+    "id": "books.loadBooksMessage",
+    "defaultMessage": "Loading Books..."
+  },
+  {
+    "id": "books.loadPermissionsMessage",
+    "defaultMessage": "Loading Permissions..."
+  },
+  {
+    "id": "books.reset",
+    "defaultMessage": "Reset"
+  }
+]

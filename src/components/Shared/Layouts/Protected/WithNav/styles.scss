@@ -1,0 +1,18 @@
+@import '~styles/index';
+
+.protected-menu {
+  .ui.inverted.menu.green {
+    background-color: $darkColour;
+    padding-bottom: 2px;
+    .item {
+      align-self: auto;
+      &:not(.active) {
+        border-color: transparent;
+      }
+    }
+  }
+}
+
+.dark {
+  background-color: $darkColour;
+}

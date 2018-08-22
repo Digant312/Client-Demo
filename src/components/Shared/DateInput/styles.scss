@@ -1,0 +1,45 @@
+@import '~styles/index';
+
+.react-datepicker__input-container,
+.react-datepicker-wrapper {
+  width: 100%;
+}
+
+.datepicker-input-inverted {
+  background-color: #1b1c1d !important; /* bleargh */
+  color: white !important;
+}
+
+.react-datepicker.datepicker-calendar-inverted {
+  border-color: #1b1c1d;
+}
+
+.datepicker-calendar-inverted .react-datepicker__header {
+  background-color: #1b1c1d;
+}
+
+.datepicker-calendar-inverted {
+  .react-datepicker__day-name,
+  .react-datepicker__current-month {
+    color: white;
+  }
+}
+
+.datepicker-calendar-inverted {
+  .react-datepicker__week,
+  .react-datepicker__month-container {
+    background-color: #1b1c1d;
+  }
+}
+
+.datepicker-calendar-inverted .react-datepicker__day {
+  color: white;
+  &:hover {
+    color: #1b1c1d !important;
+  }
+}
+
+.react-datepicker__day--selected,
+.react-datepicker__day--keyboard-selected {
+  background-color: $themeColour;
+}

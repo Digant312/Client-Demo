@@ -1,0 +1,10 @@
+[
+  {
+    "id": "parties.confirmFundDeactiveMessage",
+    "defaultMessage": "Are you sure you want to deactivate {partyId} ?"
+  },
+  {
+    "id": "parties.confirmFundActiveMessages",
+    "defaultMessage": "Are you sure you want to reactivate {partyId} ?"
+  }
+]

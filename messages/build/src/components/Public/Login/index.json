@@ -1,0 +1,18 @@
+[
+  {
+    "id": "login.email",
+    "defaultMessage": "Email"
+  },
+  {
+    "id": "login.password",
+    "defaultMessage": "Password"
+  },
+  {
+    "id": "login.login",
+    "defaultMessage": "Login"
+  },
+  {
+    "id": "login.forgotPassword",
+    "defaultMessage": "Forgot Password?"
+  }
+]

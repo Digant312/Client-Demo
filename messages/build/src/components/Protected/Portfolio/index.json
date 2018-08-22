@@ -1,0 +1,18 @@
+[
+  {
+    "id": "portfolio.positions",
+    "defaultMessage": "Positions"
+  },
+  {
+    "id": "portfolio.transactions",
+    "defaultMessage": "Transactions"
+  },
+  {
+    "id": "portfolio.newTransaction",
+    "defaultMessage": "New Transaction"
+  },
+  {
+    "id": "portfolio.transactionHistory",
+    "defaultMessage": "Transaction History"
+  }
+]

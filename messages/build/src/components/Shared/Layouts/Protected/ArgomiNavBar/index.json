@@ -1,0 +1,26 @@
+[
+  {
+    "id": "argomiNavBar.portfolio",
+    "defaultMessage": "Portfolio"
+  },
+  {
+    "id": "argomiNavBar.monitor",
+    "defaultMessage": "Monitor"
+  },
+  {
+    "id": "argomiNavBar.core",
+    "defaultMessage": "Core"
+  },
+  {
+    "id": "argomiNavBar.account",
+    "defaultMessage": "Account"
+  },
+  {
+    "id": "argomiNavBar.logout",
+    "defaultMessage": "Logout"
+  },
+  {
+    "id": "argomiNavBar.noRels",
+    "defaultMessage": "No active relationships - awaiting approval"
+  }
+]

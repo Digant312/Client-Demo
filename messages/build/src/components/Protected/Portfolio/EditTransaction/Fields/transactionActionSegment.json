@@ -1,0 +1,26 @@
+[
+  {
+    "id": "transactionAction.cancelLabel",
+    "defaultMessage": "Cancel Transaction"
+  },
+  {
+    "id": "transactionCancelModal.header",
+    "defaultMessage": "Cancel Transaction"
+  },
+  {
+    "id": "transactionCancelModal.firstContent",
+    "defaultMessage": "Cancelling a Transaction is a permanent action. You will need to re-book the Transaction for it to be active."
+  },
+  {
+    "id": "transactionCancelModal.secondContent",
+    "defaultMessage": "You can still view cancelled Transactions, but they will not contribute to your Positions."
+  },
+  {
+    "id": "transactionCancelModal.dontCancelLabel",
+    "defaultMessage": "Don't Cancel"
+  },
+  {
+    "id": "transactionCancelModal.cancelLabel",
+    "defaultMessage": "Cancel Transaction"
+  }
+]

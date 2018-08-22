@@ -1,0 +1,26 @@
+[
+  {
+    "id": "reset.resetCode",
+    "defaultMessage": "Reset Code"
+  },
+  {
+    "id": "reset.resetCodePlaceholder",
+    "defaultMessage": "e.g. 123456"
+  },
+  {
+    "id": "reset.newPassword",
+    "defaultMessage": "New Password"
+  },
+  {
+    "id": "reset.newPasswordGhostText",
+    "defaultMessage": "For enhanced security, please use a password with at least 10 characters, containing one uppercase letter, one lowercase letter, one number, and no space"
+  },
+  {
+    "id": "reset.confirmPassword",
+    "defaultMessage": "Confirm Password"
+  },
+  {
+    "id": "reset.resetPassword",
+    "defaultMessage": "Reset Password"
+  }
+]

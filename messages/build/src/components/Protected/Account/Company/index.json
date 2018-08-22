@@ -1,0 +1,34 @@
+[
+  {
+    "id": "editCompany.company",
+    "defaultMessage": "Company"
+  },
+  {
+    "id": "editCompany.information",
+    "defaultMessage": "Information"
+  },
+  {
+    "id": "editCompany.relationships",
+    "defaultMessage": "Relationships"
+  },
+  {
+    "id": "editCompany.dataMigration",
+    "defaultMessage": "Data Migration"
+  },
+  {
+    "id": "editCompany.book",
+    "defaultMessage": "Book"
+  },
+  {
+    "id": "editCompany.asset",
+    "defaultMessage": "Asset"
+  },
+  {
+    "id": "editCompany.party",
+    "defaultMessage": "Party"
+  },
+  {
+    "id": "editCompany.transaction",
+    "defaultMessage": "Transaction"
+  }
+]

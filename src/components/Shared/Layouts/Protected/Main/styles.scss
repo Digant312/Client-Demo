@@ -1,0 +1,42 @@
+.book-selector-btn-container {
+  display: inline-block;
+  padding-top: 10px;
+}
+
+.ui.button.book-selector-btn {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.book-selector-heading {
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: 20px;
+}
+
+.book-selector-all-btn {
+  margin: 10px 0 10px 10px;
+}
+
+.accordion-title {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.accordion-book-btn {
+  margin-bottom: 10px;
+}
+
+.sub-menu-container {
+  flex: 1;
+  padding: 10px 50px 50px 50px;
+  &.with-book-selector {
+    padding: 10px 10px 50px 5px;
+    width: calc(100% - 38px);
+    float: right;
+  }
+}
+
+.ui.segment.sub-menu-segment {
+  padding: 0;
+}

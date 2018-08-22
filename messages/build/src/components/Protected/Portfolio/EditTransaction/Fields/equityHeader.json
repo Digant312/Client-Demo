@@ -1,0 +1,46 @@
+[
+  {
+    "id": "transactionHeader.AssetClass",
+    "defaultMessage": "Asset Class"
+  },
+  {
+    "id": "transactionHeader.AssetType",
+    "defaultMessage": "Asset Type"
+  },
+  {
+    "id": "transactionHeader.description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "transactionHeader.countryCcy",
+    "defaultMessage": "Country/Ccy"
+  },
+  {
+    "id": "transactionHeader.transacitonId",
+    "defaultMessage": "Transaction ID"
+  },
+  {
+    "id": "transactionHeader.transactionStatus",
+    "defaultMessage": "Transaction Status"
+  },
+  {
+    "id": "transactionHeader.executionTime",
+    "defaultMessage": "Execution Time"
+  },
+  {
+    "id": "transactionHeader.createdBy",
+    "defaultMessage": "Created By"
+  },
+  {
+    "id": "transactionHeader.createdTime",
+    "defaultMessage": "Created Time"
+  },
+  {
+    "id": "transactionHeader.updatedBy",
+    "defaultMessage": "Updated By"
+  },
+  {
+    "id": "transactionHeader.updatedTime",
+    "defaultMessage": "Updated Time"
+  }
+]

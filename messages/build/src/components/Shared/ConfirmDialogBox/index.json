@@ -1,0 +1,10 @@
+[
+  {
+    "id": "confirmDialogBox.defaultPositiveButtonContentMessage",
+    "defaultMessage": "No"
+  },
+  {
+    "id": "confirmDialogBox.defaultNegativeButtonContentMessage",
+    "defaultMessage": "Yes"
+  }
+]

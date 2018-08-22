@@ -1,0 +1,26 @@
+[
+  {
+    "id": "home.username",
+    "defaultMessage": "Username"
+  },
+  {
+    "id": "home.password",
+    "defaultMessage": "Password"
+  },
+  {
+    "id": "home.login",
+    "defaultMessage": "Login"
+  },
+  {
+    "id": "home.signup",
+    "defaultMessage": "Sign Up"
+  },
+  {
+    "id": "home.error",
+    "defaultMessage": "Error logging in, please try again"
+  },
+  {
+    "id": "home.forgotPassword",
+    "defaultMessage": "Forgot Password?"
+  }
+]

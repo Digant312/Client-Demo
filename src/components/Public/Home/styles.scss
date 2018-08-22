@@ -1,0 +1,18 @@
+.public-wrapper {
+  height: 100%;
+}
+
+.public-menu {
+  border-bottom: solid 1px lightgray;
+}
+
+.public-main {
+  height: 100%;
+  background-image: radial-gradient(200% 200% at center, #F3F3F3, #868781);
+}
+
+.public-footer {
+  height: 100px;
+  position: relative;
+  top: calc(100% - 100px - 57px);
+}

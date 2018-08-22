@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<RepositoryCustomSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AutoRefresh>true</AutoRefresh>
+  <AutoRefreshRemotes>true</AutoRefreshRemotes>
+  <CommitTextLinks />
+  <DraftCommitMsg />
+  <IncomingSavedCount>0</IncomingSavedCount>
+  <LastCheckedRemotes>2017-11-06T18:53:47.413711+05:30</LastCheckedRemotes>
+  <LastUsedView>Log</LastUsedView>
+  <LogBranchFilterIndex>0</LogBranchFilterIndex>
+  <OutgoingSavedCount>0</OutgoingSavedCount>
+  <RemoteProjectLinks>
+    <RepositoryRemoteProjectLink>
+      <BaseUrl>https://www.bitbucket.org</BaseUrl>
+      <Identifier>amaas/argomi</Identifier>
+      <RemoteName>default</RemoteName>
+      <Type>Bitbucket</Type>
+      <Username>digant-tms</Username>
+    </RepositoryRemoteProjectLink>
+  </RemoteProjectLinks>
+  <SidebarExpandedItems>
+    <string>File Status</string>
+    <string>Branches</string>
+    <string>Branches/release</string>
+  </SidebarExpandedItems>
+  <SidebarWidth>210</SidebarWidth>
+  <SubtreeLinks />
+</RepositoryCustomSettings>

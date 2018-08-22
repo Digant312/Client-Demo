@@ -1,0 +1,41 @@
+.para-loader.agmi {
+  border-radius: 4px;
+  min-height: 38px;
+  width: 200px;
+  background-color: lightgrey;
+  animation: pulseColour 2s infinite;
+}
+
+.agmi.fluid {
+  width: 100%;
+}
+
+.agmi.mini {
+  min-height: 30px;
+}
+
+.agmi.small {
+  min-height: 35px;
+}
+
+.agmi.large {
+  min-height: 43px;
+}
+
+.agmi.big {
+  min-height: 47px;
+}
+
+.agmi.huge {
+  min-height: 53px;
+}
+
+.agmi.massive {
+  min-height: 64px;
+}
+
+@keyframes pulseColour {
+  0% { background-color: lightgrey }
+  50% { background-color: #C5C5C5 }
+  100% { background-color: lightgrey }
+}

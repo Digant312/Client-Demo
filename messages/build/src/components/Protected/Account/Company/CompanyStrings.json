@@ -1,0 +1,66 @@
+[
+  {
+    "id": "editCompany.companyInfo",
+    "defaultMessage": "Company Information"
+  },
+  {
+    "id": "editCompany.modalHeader",
+    "defaultMessage": "Edit Company Information"
+  },
+  {
+    "id": "editCompany.cancel",
+    "defaultMessage": "Cancel"
+  },
+  {
+    "id": "editCompany.save",
+    "defaultMessage": "Save"
+  },
+  {
+    "id": "editCompany.updateError",
+    "defaultMessage": "Error updating profile, please try again"
+  },
+  {
+    "id": "companyRelationships.nameLabel",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "companyRelationships.actionLabel",
+    "defaultMessage": "Action"
+  },
+  {
+    "id": "companyRelationships.revokeAction",
+    "defaultMessage": "Revoke"
+  },
+  {
+    "id": "companyRelationships.approveAction",
+    "defaultMessage": "Approve"
+  },
+  {
+    "id": "companyRelationships.rejectAction",
+    "defaultMessage": "Reject"
+  },
+  {
+    "id": "companyRelationships.loadingRelationships",
+    "defaultMessage": "Loading Relationships"
+  },
+  {
+    "id": "companyRelationships.rejectModalHeader",
+    "defaultMessage": "Revoke or Reject Relationship"
+  },
+  {
+    "id": "companyRelationships.rejectModalContent",
+    "defaultMessage": "Are you sure you want to revoke or reject this Relationship?"
+  },
+  {
+    "id": "companyRelationships.cancelReject",
+    "defaultMessage": "No"
+  },
+  {
+    "id": "companyRelationships.confirmReject",
+    "defaultMessage": "Yes"
+  },
+  {
+    "id": "dataMigration.uploadFileHeadingText",
+    "defaultMessage": "Select your file"
+  }
+]

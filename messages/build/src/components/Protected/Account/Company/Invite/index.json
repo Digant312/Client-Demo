@@ -1,0 +1,26 @@
+[
+  {
+    "id": "invite.missingFields",
+    "defaultMessage": "Missing Fields"
+  },
+  {
+    "id": "invite.inviteTitle",
+    "defaultMessage": "Invite colleague"
+  },
+  {
+    "id": "invite.inviteText",
+    "defaultMessage": "Enter your colleague's email address below to invite them to Argomi. They will receive an email with instructions on how to sign up."
+  },
+  {
+    "id": "invite.emailLocalPlaceholder",
+    "defaultMessage": "e.g. john_smith"
+  },
+  {
+    "id": "invite.cancel",
+    "defaultMessage": "Cancel"
+  },
+  {
+    "id": "invite.inviteAction",
+    "defaultMessage": "Invite"
+  }
+]

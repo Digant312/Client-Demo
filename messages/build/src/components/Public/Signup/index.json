@@ -1,0 +1,34 @@
+[
+  {
+    "id": "signup.firstName",
+    "defaultMessage": "First Name"
+  },
+  {
+    "id": "signup.lastName",
+    "defaultMessage": "Last Name"
+  },
+  {
+    "id": "signup.companyEmail",
+    "defaultMessage": "Company Email"
+  },
+  {
+    "id": "signup.companyEmailPlaceholder",
+    "defaultMessage": "e.g. yourname@company.com"
+  },
+  {
+    "id": "signup.companyEmailGhostText",
+    "defaultMessage": "Start your journey with Argomi using your company email address"
+  },
+  {
+    "id": "signup.password",
+    "defaultMessage": "Password"
+  },
+  {
+    "id": "signup.passwordGhostText",
+    "defaultMessage": "For enhanced security, please use a password with at least 10 characters, containing one uppercase letter, one lowercase letter, one number, and no space"
+  },
+  {
+    "id": "signup.next",
+    "defaultMessage": "Next"
+  }
+]

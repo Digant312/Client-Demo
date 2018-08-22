@@ -1,0 +1,78 @@
+[
+  {
+    "id": "editPersonal.loadingProfileError",
+    "defaultMessage": "Error fetching profile information, please refresh"
+  },
+  {
+    "id": "editPersonal.account",
+    "defaultMessage": "Account"
+  },
+  {
+    "id": "editPersonal.accountSubheading",
+    "defaultMessage": "Manage your profile"
+  },
+  {
+    "id": "editPersonal.securitySettings",
+    "defaultMessage": "Security Settings"
+  },
+  {
+    "id": "editPersonal.emailAddress",
+    "defaultMessage": "Email Address"
+  },
+  {
+    "id": "editPersonal.password",
+    "defaultMessage": "Password"
+  },
+  {
+    "id": "editPersonal.profileInformation",
+    "defaultMessage": "Profile Information"
+  },
+  {
+    "id": "editPersonal.name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "editPersonal.company",
+    "defaultMessage": "Company"
+  },
+  {
+    "id": "editPersonal.department",
+    "defaultMessage": "Department"
+  },
+  {
+    "id": "editPersonal.role",
+    "defaultMessage": "Role"
+  },
+  {
+    "id": "editPersonal.officeNumber",
+    "defaultMessage": "Office No."
+  },
+  {
+    "id": "editPersonal.mobileNumber",
+    "defaultMessage": "Mobile No."
+  },
+  {
+    "id": "editPersonal.addressLineOne",
+    "defaultMessage": "Line One"
+  },
+  {
+    "id": "editPersonal.addressLineTwo",
+    "defaultMessage": "Line Two"
+  },
+  {
+    "id": "editPersonal.city",
+    "defaultMessage": "City"
+  },
+  {
+    "id": "editPersonal.region",
+    "defaultMessage": "Region"
+  },
+  {
+    "id": "editPersonal.postalCode",
+    "defaultMessage": "Postal Code"
+  },
+  {
+    "id": "editPersonal.countryCode",
+    "defaultMessage": "Country"
+  }
+]

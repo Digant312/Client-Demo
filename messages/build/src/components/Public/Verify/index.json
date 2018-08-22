@@ -1,0 +1,22 @@
+[
+  {
+    "id": "verify.verificationCode",
+    "defaultMessage": "Verification Code"
+  },
+  {
+    "id": "verify.verificationCodePlaceholder",
+    "defaultMessage": "e.g. 123456"
+  },
+  {
+    "id": "verify.verify",
+    "defaultMessage": "Verify"
+  },
+  {
+    "id": "verify.resend",
+    "defaultMessage": "Resend Code"
+  },
+  {
+    "id": "verify.resendSuccess",
+    "defaultMessage": "Code successfully resent"
+  }
+]

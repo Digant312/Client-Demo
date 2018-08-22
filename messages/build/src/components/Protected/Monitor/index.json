@@ -1,0 +1,14 @@
+[
+  {
+    "id": "monitor.items",
+    "defaultMessage": "Items"
+  },
+  {
+    "id": "monitor.calendar",
+    "defaultMessage": "Calendar"
+  },
+  {
+    "id": "monitor.activities",
+    "defaultMessage": "Activities"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "account.Personal",
+    "defaultMessage": "Personal"
+  },
+  {
+    "id": "account.Company",
+    "defaultMessage": "Company"
+  }
+]

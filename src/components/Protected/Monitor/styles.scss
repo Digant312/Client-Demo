@@ -1,0 +1,67 @@
+.time-line-component {
+  clear: left;
+}
+.time-line-component .row-block {
+  margin-bottom: 15px;
+}
+.time-line-component .divider-block {
+  margin-top: 15px;
+}
+.time-line-component .icon-block {
+  margin-right: 10px;
+  font-size: 18px;
+}
+.time-line-component .full-width-block {
+  width: 100%;
+  display: block;
+  overflow: hidden;
+}
+.time-line-component .left-icon-block {
+  width: 40px;
+  float: left;
+}
+.time-line-component .middle-content-block {
+  display: inline-block;
+  width: -moz-calc(100% - 300px);
+  width: -webkit-calc(100% - 300px);
+  width: calc(100% - 300px);
+  float: left;
+  padding-top: 4px;
+}
+.time-line-component .right-icon-block {
+  width: 230px;
+  float: right;
+  text-align: center;
+}
+.time-line-component .right-icon-block .timezone-container {
+  display: inline-block;
+  width: 110px;
+  float: left;
+  padding-top: 3px;
+}
+.time-line-component .right-icon-block .time-container {
+  display: inline-block;
+  width: 120px;
+  float: left;
+  border-left: 1px solid #999;
+  padding-left: 10px;
+  padding-top: 3px;
+}
+.time-line-component .right-icon-block .clock-block {
+  width: 29px;
+  display: inline-block;
+  float: left;
+}
+.time-line-component .right-icon-block .timezone-container .clock-block {
+  padding-top: 0;
+}
+.time-line-component .right-icon-block .time-block {
+  width: 80px;
+  display: inline-block;
+  float: left;
+}
+.time-line-component .right-icon-block .timezone-container .timezone-text {
+  width: 60px;
+  display: inline-block;
+  float: left;
+}

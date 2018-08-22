@@ -1,0 +1,80 @@
+.account-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.account-action {
+  display: flex;
+  justify-content: space-between;
+
+  h4 {
+    margin: 0;
+  }
+}
+
+.account-info {
+  display: flex;
+  flex: 1;
+}
+
+.account-column-container {
+  @extend .account-info;
+  flex-direction: column;
+  flex: 0 0 auto;
+}
+
+.account-column {
+  flex: 0 0 auto;
+  padding: 10px;
+
+  &.left {
+    margin-left: auto;
+  }
+
+  p {
+    padding: 5px 10px 5px 10px;
+  }
+}
+
+.inverted {
+  .account-labels {
+    p {
+      // background-color: black;
+    }
+  }
+}
+
+.account-labels {
+  min-width: 150px;
+  p {
+    font-weight: bold;
+    // background-color: lightgrey;
+  }
+}
+
+.uploaded-files-container .full-width-block {
+  width: 100%;
+  display: block;
+  overflow: hidden;
+}
+.uploaded-files-container .left-icon-block {
+  width: 60px;
+  float: left;
+}
+.uploaded-files-container .middle-content-block {
+  display: inline-block;
+  width: -moz-calc(100% - 70px);
+  width: -webkit-calc(100% - 70px);
+  width: calc(100% - 70px);
+  float: left;
+  padding-top: 4px;
+}
+.uploaded-files-container .right-icon-block {
+  width: 230px;
+  float: right;
+  text-align: center;
+}
+.uploaded-files-container .right-icon-block .timezone-container {
+  display: block;
+  padding-right: 20px;
+}

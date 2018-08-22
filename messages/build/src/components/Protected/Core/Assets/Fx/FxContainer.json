@@ -1,0 +1,10 @@
+[
+  {
+    "id": "assets.confirmFxInActiveMessage",
+    "defaultMessage": "Are you sure you want to deactivate {assetId} ?"
+  },
+  {
+    "id": "assets.confirmFxReactivateMessage",
+    "defaultMessage": "Are you sure you want to reactivate {assetId} ?"
+  }
+]

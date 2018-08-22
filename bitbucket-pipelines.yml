@@ -1,0 +1,59 @@
+# You can specify a custom docker image from Docker Hub as your build environment
+image: node:7.7.4
+ 
+pipelines:
+  custom:
+    nightly-build:
+      - step:
+          script:
+            - npm install
+            - npm test
+            - npm run build
+    staging-deploy:
+      - step:
+          script:
+            # - npm i -g gulp
+            - npm install
+            - npm test
+            # - cd ./node_modules/semantic-ui && gulp build && cd ../../
+            - npm run build:staging
+            - apt-get update && apt-get install -y python-dev
+            - curl -O https://bootstrap.pypa.io/get-pip.py
+            - python get-pip.py
+            - pip install boto3==1.4.1
+            - python s3_emptyBucket.py app-staging.argomi.com
+            # - ls -al
+            - pip install awscli
+            - aws s3 sync ./public s3://app-staging.argomi.com/public/
+            # --config=.s3cfg --region=ap-southeast-1 --acl-public --add-header='Cache-Control:public, max-age=300' --delete-removed ./public s3://argomi.amaas.com/public/
+            - aws s3 sync ./dist s3://app-staging.argomi.com/
+            - aws cloudfront create-invalidation --distribution-id E92RF55RN5QIZ --paths / /styles.css
+    prod-deploy:
+      - step:
+          script:
+            # - npm i -g gulp
+            - npm install
+            - npm test
+            # - cd ./node_modules/semantic-ui && gulp build && cd ../../
+            - npm run build:production
+            - apt-get update && apt-get install -y python-dev
+            - curl -O https://bootstrap.pypa.io/get-pip.py
+            - python get-pip.py
+            # - pip install boto3==1.4.1
+            # - python s3_emptyBucket.py app.argomi.com
+            # - ls -al
+            - pip install awscli
+            - export AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID_PROD
+            - export AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY_PROD
+            # delete bucket objects
+            - aws s3 rm s3://app.argomi.com --recursive
+            - aws s3 sync ./public s3://app.argomi.com/public/
+            # --config=.s3cfg --region=ap-southeast-1 --acl-public --add-header='Cache-Control:public, max-age=300' --delete-removed ./public s3://argomi.amaas.com/public/
+            - aws s3 sync ./dist s3://app.argomi.com/
+            - aws cloudfront create-invalidation --distribution-id E2LRO77UGHE2C3 --paths / /styles.css
+  default:
+    - step:
+        script:
+          - npm install
+          - npm test
+          - npm run build

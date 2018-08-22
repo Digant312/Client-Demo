@@ -1,0 +1,266 @@
+[
+  {
+    "id": "assets.assetsLable",
+    "defaultMessage": "Assets"
+  },
+  {
+    "id": "equity.equityMenuLable",
+    "defaultMessage": "Equity"
+  },
+  {
+    "id": "fx.fxMenuLable",
+    "defaultMessage": "FX"
+  },
+  {
+    "id": "future.futureMenuLable",
+    "defaultMessage": "Future"
+  },
+  {
+    "id": "otherAssets.otherAssetsMenuLable",
+    "defaultMessage": "Other Assets"
+  },
+  {
+    "id": "equity.equityUpdateToastMessage",
+    "defaultMessage": "Equity updated successfully"
+  },
+  {
+    "id": "equity.equityAddToastMessage",
+    "defaultMessage": "Equity added successfully"
+  },
+  {
+    "id": "equity.equityRetireToastMessage",
+    "defaultMessage": "Equity deactivated successfully"
+  },
+  {
+    "id": "equity.equityReactivateToastMessage",
+    "defaultMessage": "Equity reactivated successfully"
+  },
+  {
+    "id": "equity.equityAddFailedToastMessage",
+    "defaultMessage": "Unable to add Equity"
+  },
+  {
+    "id": "equity.equityUpdateFailedToastMessage",
+    "defaultMessage": "Unable to update Equity"
+  },
+  {
+    "id": "equity.equityRetireFailedToastMessage",
+    "defaultMessage": "Unable to deactivate Equity"
+  },
+  {
+    "id": "equity.confirmDeactivateHeading",
+    "defaultMessage": "Deactivate Equity?"
+  },
+  {
+    "id": "equity.confirmReactivateHeading",
+    "defaultMessage": "Reactivate Equity?"
+  },
+  {
+    "id": "equity.confirmDeactivateMessage",
+    "defaultMessage": "Are you sure you want to deactivate Equity?"
+  },
+  {
+    "id": "equity.cancelButtonLabel",
+    "defaultMessage": "Cancel"
+  },
+  {
+    "id": "equity.addButtonLabel",
+    "defaultMessage": "Add"
+  },
+  {
+    "id": "equity.updateButtonLabel",
+    "defaultMessage": "Update"
+  },
+  {
+    "id": "equity.addEquityButtonLabel",
+    "defaultMessage": "Add Equity"
+  },
+  {
+    "id": "equity.addFxButtonLabel",
+    "defaultMessage": "Add FX"
+  },
+  {
+    "id": "equity.addFutureButtonLabel",
+    "defaultMessage": "Add Future"
+  },
+  {
+    "id": "otherAsset.addAssetButtonLabel",
+    "defaultMessage": "Add Asset"
+  },
+  {
+    "id": "fx.fxUpdateToastMessage",
+    "defaultMessage": "FX updated successfully"
+  },
+  {
+    "id": "fx.fxAddToastMessage",
+    "defaultMessage": "FX added successfully"
+  },
+  {
+    "id": "fx.fxRetireToastMessage",
+    "defaultMessage": "FX deactivated successfully"
+  },
+  {
+    "id": "fx.fxReactivateToastMessage",
+    "defaultMessage": "FX reactivated successfully"
+  },
+  {
+    "id": "fx.fxUpdateFailedToastMessage",
+    "defaultMessage": "Unable to update FX"
+  },
+  {
+    "id": "fx.fxAddFailedToastMessage",
+    "defaultMessage": "Unable to add FX"
+  },
+  {
+    "id": "fx.fxRetireFailedToastMessage",
+    "defaultMessage": "Unable to deactivate FX"
+  },
+  {
+    "id": "fx.confirmDeactivateFxHeading",
+    "defaultMessage": "Deactivate FX?"
+  },
+  {
+    "id": "fx.confirmDeactivateFxMessage",
+    "defaultMessage": "Are you sure you want to deactivate FX?"
+  },
+  {
+    "id": "future.futureUpdateToastMessage",
+    "defaultMessage": "Future updated successfully"
+  },
+  {
+    "id": "future.futureAddToastMessage",
+    "defaultMessage": "Future added successfully"
+  },
+  {
+    "id": "future.futureRetireToastMessage",
+    "defaultMessage": "Future deactivated successfully"
+  },
+  {
+    "id": "future.futureReactivateToastMessage",
+    "defaultMessage": "Future reactivated successfully"
+  },
+  {
+    "id": "future.futureUpdateFailedToastMessage",
+    "defaultMessage": "Unable to update Future"
+  },
+  {
+    "id": "future.futureAddFailedToastMessage",
+    "defaultMessage": "Unable to add Future"
+  },
+  {
+    "id": "future.futureRetireFailedToastMessage",
+    "defaultMessage": "Unable to deactivate Future"
+  },
+  {
+    "id": "otherAsset.assetUpdateToastMessage",
+    "defaultMessage": "Asset updated successfully"
+  },
+  {
+    "id": "otherAsset.updatedAssetFailed",
+    "defaultMessage": "Unable to update Asset"
+  },
+  {
+    "id": "otherAsset.assetAddToastMessage",
+    "defaultMessage": "Asset added successfully"
+  },
+  {
+    "id": "otherAsset.addAssetFailedMessage",
+    "defaultMessage": "Unable to add Asset"
+  },
+  {
+    "id": "otherAsset.assetRetireToastMessage",
+    "defaultMessage": "Asset deactivated successfully"
+  },
+  {
+    "id": "otherAsset.assetReactivateToastMessage",
+    "defaultMessage": "Asset reactivated successfully"
+  },
+  {
+    "id": "otherAsset.confirmDeactivateAssetHeading",
+    "defaultMessage": "Deactivate Asset?"
+  },
+  {
+    "id": "otherAsset.confirmDeactivateAssetMessage",
+    "defaultMessage": "Are you sure you want to deactivate Asset?"
+  },
+  {
+    "id": "otherAsset.deactivateAssetFailed",
+    "defaultMessage": "Unable to deactivate Asset"
+  },
+  {
+    "id": "books.loadEquitiesMessage",
+    "defaultMessage": "Loading Equities..."
+  },
+  {
+    "id": "books.loadFuturesMessage",
+    "defaultMessage": "Loading Futures..."
+  },
+  {
+    "id": "books.loadFxsMessage",
+    "defaultMessage": "Loading FXs..."
+  },
+  {
+    "id": "books.loadAssetsMessage",
+    "defaultMessage": "Loading Assets..."
+  },
+  {
+    "id": "assets.reset",
+    "defaultMessage": "Reset"
+  },
+  {
+    "id": "etf.loadAssetsMessage",
+    "defaultMessage": "Loading ETF..."
+  },
+  {
+    "id": "etf.addETFButtonLabel",
+    "defaultMessage": "Add ETF"
+  },
+  {
+    "id": "etf.etfMenuLable",
+    "defaultMessage": "ETF"
+  },
+  {
+    "id": "etf.etfUpdateToastMessage",
+    "defaultMessage": "ETF updated successfully"
+  },
+  {
+    "id": "etf.etfAddToastMessage",
+    "defaultMessage": "ETF added successfully"
+  },
+  {
+    "id": "etf.etfRetireToastMessage",
+    "defaultMessage": "ETF deactivated successfully"
+  },
+  {
+    "id": "etf.etfReactivateToastMessage",
+    "defaultMessage": "ETF reactivated successfully"
+  },
+  {
+    "id": "etf.etfUpdateFailedToastMessage",
+    "defaultMessage": "Unable to update ETF"
+  },
+  {
+    "id": "etf.etfAddFailedToastMessage",
+    "defaultMessage": "Unable to add ETF"
+  },
+  {
+    "id": "etf.etfRetireFailedToastMessage",
+    "defaultMessage": "Unable to deactivate ETF"
+  },
+  {
+    "id": "etf.confirmDeactivateETFHeading",
+    "defaultMessage": "Deactivate ETF?"
+  },
+  {
+    "id": "etf.confirmDeactivateETFMessage",
+    "defaultMessage": "Are you sure you want to deactivate ETF?"
+  },
+  {
+    "id": "assets.reactivate",
+    "defaultMessage": "Reactivate"
+  },
+  {
+    "id": "assets.deactivate",
+    "defaultMessage": "Deactivate"
+  }
+]

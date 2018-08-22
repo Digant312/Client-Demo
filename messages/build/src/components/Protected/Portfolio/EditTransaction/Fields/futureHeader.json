@@ -1,0 +1,18 @@
+[
+  {
+    "id": "futureTransactionHeader.underlying",
+    "defaultMessage": "Underlying"
+  },
+  {
+    "id": "futureTransactionHeader.contractSize",
+    "defaultMessage": "Contract Size"
+  },
+  {
+    "id": "futureTransactionHeader.tickSize",
+    "defaultMessage": "Tick Size"
+  },
+  {
+    "id": "futureTransactionHeader.pointValue",
+    "defaultMessage": "Value of 1 point"
+  }
+]

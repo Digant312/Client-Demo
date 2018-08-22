@@ -1,0 +1,10 @@
+[
+  {
+    "id": "book.messageWithRetireId",
+    "defaultMessage": "Are you sure you want to retire {bookId} ?"
+  },
+  {
+    "id": "book.messageWithReactivateId",
+    "defaultMessage": "Are you sure you want to Unretire {bookId} ?"
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "id": "parties.bookId",
+    "defaultMessage": "Book Id"
+  },
+  {
+    "id": "parties.partyUpdateToastMessage",
+    "defaultMessage": "Party updated successfully"
+  },
+  {
+    "id": "parties.partyAddToastMessage",
+    "defaultMessage": "Party added successfully"
+  },
+  {
+    "id": "parties.bookAddToastMessage",
+    "defaultMessage": "Book added successfully"
+  },
+  {
+    "id": "parties.bookAddFailedToastMessage",
+    "defaultMessage": "Book could not be added"
+  },
+  {
+    "id": "parties.reactivate",
+    "defaultMessage": "Reactivate"
+  },
+  {
+    "id": "parties.deactivate",
+    "defaultMessage": "Deactivate"
+  },
+  {
+    "id": "parties.partyRetireToastMessage",
+    "defaultMessage": "Party deactivated successfully"
+  },
+  {
+    "id": "parties.confirmRetireHeading",
+    "defaultMessage": "Deactivate Party?"
+  },
+  {
+    "id": "parties.confirmRetireMessage",
+    "defaultMessage": "Are you sure you want to deactivate Party?"
+  },
+  {
+    "id": "parties.confirmBrokerInactiveHeading",
+    "defaultMessage": "Deactivate Broker?"
+  },
+  {
+    "id": "parties.confirmBrokerActiveHeading",
+    "defaultMessage": "Reactivate Broker?"
+  },
+  {
+    "id": "parties.confirmFundInActiveHeading",
+    "defaultMessage": "Deactivate Fund?"
+  },
+  {
+    "id": "parties.confirmFundActiveHeading",
+    "defaultMessage": "Reactivate Fund?"
+  },
+  {
+    "id": "parties.confirmIndividualInActiveHeading",
+    "defaultMessage": "Deactivate Individual?"
+  },
+  {
+    "id": "parties.confirmIndividualActivateHeading",
+    "defaultMessage": "Reactivate Individual?"
+  },
+  {
+    "id": "parties.partyBrokerUpdateToastMessage",
+    "defaultMessage": "Broker updated successfully"
+  },
+  {
+    "id": "parties.partyBrokerAddToastMessage",
+    "defaultMessage": "Broker added successfully"
+  },
+  {
+    "id": "parties.partyBrokerUpdateFailedToastMessage",
+    "defaultMessage": "Unable to update Broker"
+  },
+  {
+    "id": "parties.partyBrokerAddFailedToastMessage",
+    "defaultMessage": "Unable to add Broker"
+  },
+  {
+    "id": "parties.brokerInactiveSuccess",
+    "defaultMessage": "Broker deactivated successfully"
+  },
+  {
+    "id": "parties.brokerActiveSuccess",
+    "defaultMessage": "Broker reactivated successfully"
+  },
+  {
+    "id": "parties.partyBrokerDeleteFailedToastMessage",
+    "defaultMessage": "Unable to deactivate"
+  },
+  {
+    "id": "parties.brokerActiveFailed",
+    "defaultMessage": "Unable to reactivate"
+  },
+  {
+    "id": "parties.partyFundUpdateToastMessage",
+    "defaultMessage": "Fund updated successfully"
+  },
+  {
+    "id": "parties.partyFundAddToastMessage",
+    "defaultMessage": "Fund added successfully"
+  },
+  {
+    "id": "parties.partyFundAddFailedToastMessage",
+    "defaultMessage": "Unable to add Fund"
+  },
+  {
+    "id": "parties.partyFundUpdateFailedToastMessage",
+    "defaultMessage": "Unable to update Fund"
+  },
+  {
+    "id": "parties.fundInActiveSuccess",
+    "defaultMessage": "Fund deactivated successfully"
+  },
+  {
+    "id": "parties.fundActiveSuccess",
+    "defaultMessage": "Fund reactivated successfully"
+  },
+  {
+    "id": "parties.partyfundInActiveFailed",
+    "defaultMessage": "Unable to deactivate Fund"
+  },
+  {
+    "id": "parties.partyfundActiveFailed",
+    "defaultMessage": "Unable to reactivate Fund"
+  },
+  {
+    "id": "parties.partyIndividualUpdateToastMessage",
+    "defaultMessage": "Individual updated successfully"
+  },
+  {
+    "id": "parties.partyIndividualAddFailedToastMessage",
+    "defaultMessage": "Unable to add Individual"
+  },
+  {
+    "id": "parties.partyIndividualAddToastMessage",
+    "defaultMessage": "Individual added successfully"
+  },
+  {
+    "id": "parties.partyIndividualUpdateFailedToastMessage",
+    "defaultMessage": "Unable to update Individual"
+  },
+  {
+    "id": "parties.individualInActiveSuccess",
+    "defaultMessage": "Individual deactivated successfully"
+  },
+  {
+    "id": "parties.individualActivateSuccess",
+    "defaultMessage": "Individual reactivated successfully"
+  },
+  {
+    "id": "parties.individualInActiveFailed",
+    "defaultMessage": "Unable to deactivate Individual"
+  },
+  {
+    "id": "parties.individualActiveFailed",
+    "defaultMessage": "Unable to reactivate Individual"
+  },
+  {
+    "id": "parties.addBrokerButtonLabel",
+    "defaultMessage": "Add Party"
+  },
+  {
+    "id": "parties.cancelButtonLabel",
+    "defaultMessage": "Cancel"
+  },
+  {
+    "id": "parties.addButtonLabel",
+    "defaultMessage": "Add"
+  },
+  {
+    "id": "parties.addButtonIndividualLabel",
+    "defaultMessage": "Add Individual"
+  },
+  {
+    "id": "parties.addButtonBrokersLabel",
+    "defaultMessage": "Add Broker"
+  },
+  {
+    "id": "parties.addButtonFundLabel",
+    "defaultMessage": "Add Fund"
+  },
+  {
+    "id": "parties.updateButtonLabel",
+    "defaultMessage": "Update"
+  },
+  {
+    "id": "parties.searchbarPlaceholder",
+    "defaultMessage": "Search..."
+  },
+  {
+    "id": "parties.individuals",
+    "defaultMessage": "Individuals"
+  },
+  {
+    "id": "parties.individualLbl",
+    "defaultMessage": "Individual"
+  },
+  {
+    "id": "parties.organisations",
+    "defaultMessage": "Organisations"
+  },
+  {
+    "id": "parties.brokers",
+    "defaultMessage": "Brokers"
+  },
+  {
+    "id": "parties.funds",
+    "defaultMessage": "Funds"
+  },
+  {
+    "id": "parties.brokersLbl",
+    "defaultMessage": "Brokers"
+  },
+  {
+    "id": "parties.fundsLbl",
+    "defaultMessage": "Funds"
+  },
+  {
+    "id": "parties.parties",
+    "defaultMessage": "Parties"
+  },
+  {
+    "id": "organisation.all",
+    "defaultMessage": "All"
+  },
+  {
+    "id": "organisation.allLbl",
+    "defaultMessage": "All"
+  },
+  {
+    "id": "parties.partyOrganisationUpdateToastMessage",
+    "defaultMessage": "Organisation updated successfully"
+  },
+  {
+    "id": "parties.partyOrganisationAddToastMessage",
+    "defaultMessage": "Organisation added successfully"
+  },
+  {
+    "id": "parties.partyOrganisationUpdateFailedToastMessage",
+    "defaultMessage": "Unable to update Organisation"
+  },
+  {
+    "id": "parties.partyOrganisationAddFailedToastMessage",
+    "defaultMessage": "Unable to add Organisation"
+  },
+  {
+    "id": "parties.organisationInActiveSuccess",
+    "defaultMessage": "Organisation deactivated successfully"
+  },
+  {
+    "id": "parties.organisationActiveSuccess",
+    "defaultMessage": "Organisation reactivated successfully"
+  },
+  {
+    "id": "parties.organisationInActiveFailed",
+    "defaultMessage": "Unable to deactivate Organisation"
+  },
+  {
+    "id": "parties.organisationActiveFailed",
+    "defaultMessage": "Unable to reactivate Organisation"
+  },
+  {
+    "id": "parties.addButtonOrganisationLabel",
+    "defaultMessage": "Add Organisation"
+  },
+  {
+    "id": "parties.confirmOrganisationInActiveHeading",
+    "defaultMessage": "Deactivate Organisation?"
+  },
+  {
+    "id": "parties.confirmOrganisationActiveHeading",
+    "defaultMessage": "Reactivate Organisation?"
+  },
+  {
+    "id": "parties.confirmOrganisationInActiveMessage",
+    "defaultMessage": "Are you sure you want to deactivate Organisation {partyId}?"
+  },
+  {
+    "id": "parties.confirmOrganisationActiveMessage",
+    "defaultMessage": "Are you sure you want to reactivate Organisation {partyId}?"
+  },
+  {
+    "id": "parties.selectPartyType",
+    "defaultMessage": "Select Type"
+  },
+  {
+    "id": "parties.noPartySelected",
+    "defaultMessage": "Please Select a Party Type"
+  },
+  {
+    "id": "parties.loadOrganisationsMessage",
+    "defaultMessage": "Loading Organisations..."
+  },
+  {
+    "id": "parties.loadBrokersMessage",
+    "defaultMessage": "Loading Brokers..."
+  },
+  {
+    "id": "parties.loadFundsMessage",
+    "defaultMessage": "Loading Funds..."
+  },
+  {
+    "id": "parties.loadIndividualsMessage",
+    "defaultMessage": "Loading Individuals..."
+  },
+  {
+    "id": "parties.reset",
+    "defaultMessage": "Reset"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "assets.confirmEtfInActiveMessage",
+    "defaultMessage": "Are you sure you want to deactivate {assetId} ?"
+  },
+  {
+    "id": "assets.confirmEtfReactivateMessage",
+    "defaultMessage": "Are you sure you want to reactivate {assetId} ?"
+  }
+]

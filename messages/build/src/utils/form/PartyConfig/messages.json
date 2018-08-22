@@ -1,0 +1,130 @@
+[
+  {
+    "id": "parties.partyId",
+    "defaultMessage": "Party ID"
+  },
+  {
+    "id": "parties.baseCurrency",
+    "defaultMessage": "Base Currency"
+  },
+  {
+    "id": "parties.description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "parties.addresses",
+    "defaultMessage": "Addresses"
+  },
+  {
+    "id": "parties.emails",
+    "defaultMessage": "Emails"
+  },
+  {
+    "id": "parties.phoneNumbers",
+    "defaultMessage": "Phone Numbers"
+  },
+  {
+    "id": "parties.phoneNumberPrimary",
+    "defaultMessage": "Primary"
+  },
+  {
+    "id": "parties.references",
+    "defaultMessage": "References"
+  },
+  {
+    "id": "parties.comments",
+    "defaultMessage": "Comments"
+  },
+  {
+    "id": "parties.links",
+    "defaultMessage": "Links"
+  },
+  {
+    "id": "parties.legalName",
+    "defaultMessage": "Legal Name"
+  },
+  {
+    "id": "parties.displayName",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "parties.url",
+    "defaultMessage": "URL"
+  },
+  {
+    "id": "parties.yearOfIncorporation",
+    "defaultMessage": "Year of Inc."
+  },
+  {
+    "id": "parties.contactNumber",
+    "defaultMessage": "Contact No."
+  },
+  {
+    "id": "parties.assetsUnderManagement",
+    "defaultMessage": "AUM"
+  },
+  {
+    "id": "parties.licenseType",
+    "defaultMessage": "License Type"
+  },
+  {
+    "id": "parties.licenseNumber",
+    "defaultMessage": "License No."
+  },
+  {
+    "id": "parties.registrationNumber",
+    "defaultMessage": "Reg. No."
+  },
+  {
+    "id": "parties.title",
+    "defaultMessage": "Title"
+  },
+  {
+    "id": "parties.role",
+    "defaultMessage": "Role"
+  },
+  {
+    "id": "parties.department",
+    "defaultMessage": "Department"
+  },
+  {
+    "id": "parties.givenNames",
+    "defaultMessage": "Given Names"
+  },
+  {
+    "id": "parties.surname",
+    "defaultMessage": "Surname"
+  },
+  {
+    "id": "parties.dateOfBirth",
+    "defaultMessage": "Date of Birth"
+  },
+  {
+    "id": "parties.lineOne",
+    "defaultMessage": "Address 1"
+  },
+  {
+    "id": "parties.lineTwo",
+    "defaultMessage": "Address 2"
+  },
+  {
+    "id": "parties.city",
+    "defaultMessage": "City"
+  },
+  {
+    "id": "parties.region",
+    "defaultMessage": "Region"
+  },
+  {
+    "id": "parties.postalCode",
+    "defaultMessage": "Postal Code"
+  },
+  {
+    "id": "parties.countryId",
+    "defaultMessage": "Country"
+  },
+  {
+    "id": "parties.createBook",
+    "defaultMessage": "Create Book"
+  }
+]

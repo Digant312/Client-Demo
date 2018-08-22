@@ -1,0 +1,10 @@
+[
+  {
+    "id": "parties.confirmBrokerDeactiveMessage",
+    "defaultMessage": "Are you sure you want to deactivate {partyId} ?"
+  },
+  {
+    "id": "parties.confirmBrokerActiveMessages",
+    "defaultMessage": "Are you sure you want to reactivate {partyId} ?"
+  }
+]

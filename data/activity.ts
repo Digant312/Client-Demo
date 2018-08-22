@@ -1,0 +1,91 @@
+export default [
+  {
+    assetManagerId: 1,
+    clientId: 1,
+    activityId: 'testActivityId2',
+    bookId: 'testBookId',
+    entity: 'testEntity',
+    activityType: 'testActivityType',
+    source: 'testSource',
+    message:
+      'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s',
+    referenceId: 'testReferenceId',
+    referenceType: 'testReferenceType',
+    createdBy: 'testUser',
+    createdTime: '2017-03-17T01:50:34.585466',
+    updatedBy: 'testUser',
+    updatedTime: '17:49:40',
+    version: 1
+  },
+  {
+    assetManagerId: 1,
+    clientId: 1,
+    activityId: 'testActivityId3',
+    bookId: 'testBookId',
+    entity: 'testEntity',
+    activityType: 'testActivityType',
+    source: 'testSource',
+    message:
+      'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s',
+    referenceId: 'testReferenceId',
+    referenceType: 'testReferenceType',
+    createdBy: 'testUser',
+    createdTime: '2017-03-15T20:34:34.585466',
+    updatedBy: 'testUser',
+    updatedTime: '17:49:40',
+    version: 1
+  },
+  {
+    assetManagerId: 1,
+    clientId: 1,
+    activityId: 'testActivityId4',
+    bookId: 'testBookId',
+    entity: 'testEntity',
+    activityType: 'testActivityType',
+    source: 'testSource',
+    message: 'TestMessage',
+    referenceId: 'testReferenceId',
+    referenceType: 'testReferenceType',
+    createdBy: 'testUser',
+    createdTime: '2017-03-15T11:37:34.585466',
+    updatedBy: 'testUser',
+    updatedTime: '17:49:40',
+    version: 1
+  },
+  {
+    assetManagerId: 1,
+    clientId: 1,
+    activityId: 'testActivityId5',
+    bookId: 'testBookId',
+    entity: 'testEntity',
+    activityType: 'testActivityType',
+    source: 'testSource',
+    message:
+      'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s',
+    referenceId: 'testReferenceId',
+    referenceType: 'testReferenceType',
+    createdBy: 'testUser',
+    createdTime: '2017-03-14T21:35:34.585466',
+    updatedBy: 'testUser',
+    updatedTime: '17:49:40',
+    version: 1
+  },
+  {
+    assetManagerId: 1,
+    clientId: 1,
+    activityId: 'testActivityId1',
+    bookId: 'testBookId',
+    entity: 'testEntity',
+    activityType: 'testActivityType',
+    source: 'testSource',
+    message:
+      '1 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s',
+    referenceId: 'testReferenceId',
+    referenceType: 'testReferenceType',
+    createdBy: 'testUser',
+    createdTime: '2017-03-17T01:47:34.585466',
+    updatedBy: 'testUser',
+    updatedTime: '17:49:40',
+    version: 1
+  }
+]

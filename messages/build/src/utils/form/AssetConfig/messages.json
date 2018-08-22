@@ -1,0 +1,170 @@
+[
+  {
+    "id": "equity.assetId",
+    "defaultMessage": "Asset Id"
+  },
+  {
+    "id": "equity.description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "equity.displayName",
+    "defaultMessage": "Display Name"
+  },
+  {
+    "id": "equity.assetStatus",
+    "defaultMessage": "Asset Status"
+  },
+  {
+    "id": "equity.updatedBy",
+    "defaultMessage": "Updated By"
+  },
+  {
+    "id": "equity.createdBy",
+    "defaultMessage": "Created By"
+  },
+  {
+    "id": "equity.internalId",
+    "defaultMessage": "Internal Id"
+  },
+  {
+    "id": "equity.rollPrice",
+    "defaultMessage": "Roll Price"
+  },
+  {
+    "id": "equity.assetIssuerId",
+    "defaultMessage": "Asset Issuer"
+  },
+  {
+    "id": "equity.shareClass",
+    "defaultMessage": "Share Class"
+  },
+  {
+    "id": "equity.assetType",
+    "defaultMessage": "Asset Type"
+  },
+  {
+    "id": "equity.countryId",
+    "defaultMessage": "Country"
+  },
+  {
+    "id": "equity.currency",
+    "defaultMessage": "Currency"
+  },
+  {
+    "id": "equity.fungible",
+    "defaultMessage": "Fungible"
+  },
+  {
+    "id": "equity.clientAdditional",
+    "defaultMessage": "Client Additional"
+  },
+  {
+    "id": "equity.assetClass",
+    "defaultMessage": "Asset Class"
+  },
+  {
+    "id": "equity.updatedTime",
+    "defaultMessage": "Updated Time"
+  },
+  {
+    "id": "equity.issueDate",
+    "defaultMessage": "Issue Date"
+  },
+  {
+    "id": "equity.maturityDate",
+    "defaultMessage": "Maturity Date"
+  },
+  {
+    "id": "equity.createdTime",
+    "defaultMessage": "Created Time"
+  },
+  {
+    "id": "equity.venueId",
+    "defaultMessage": "Venue"
+  },
+  {
+    "id": "equity.comments",
+    "defaultMessage": "Comments"
+  },
+  {
+    "id": "equity.links",
+    "defaultMessage": "Links"
+  },
+  {
+    "id": "equity.references",
+    "defaultMessage": "References"
+  },
+  {
+    "id": "asset.major",
+    "defaultMessage": "Major"
+  },
+  {
+    "id": "asset.settlementType",
+    "defaultMessage": "Settlement Type"
+  },
+  {
+    "id": "asset.contractSize",
+    "defaultMessage": "Contract Size"
+  },
+  {
+    "id": "asset.pointValue",
+    "defaultMessage": "Value of 1 point"
+  },
+  {
+    "id": "asset.tickSize",
+    "defaultMessage": "Tick Size"
+  },
+  {
+    "id": "asset.quoteUnit",
+    "defaultMessage": "Quote Unit"
+  },
+  {
+    "id": "asset.underlyingAssetId",
+    "defaultMessage": "Underlying Asset ID"
+  },
+  {
+    "id": "asset.expiryDate",
+    "defaultMessage": "Expiry Date"
+  },
+  {
+    "id": "equity.ticker",
+    "defaultMessage": "Ticker"
+  },
+  {
+    "id": "equity.isin",
+    "defaultMessage": "ISIN"
+  },
+  {
+    "id": "equity.pair",
+    "defaultMessage": "Pair"
+  },
+  {
+    "id": "future.underlying",
+    "defaultMessage": "Underlying"
+  },
+  {
+    "id": "fund.clientId",
+    "defaultMessage": "Client Id"
+  },
+  {
+    "id": "fund.fundType",
+    "defaultMessage": "Fund Type"
+  },
+  {
+    "id": "fund.creationDate",
+    "defaultMessage": "Creation Date"
+  },
+  {
+    "id": "fund.nav",
+    "defaultMessage": "Nav"
+  },
+  {
+    "id": "fund.expenseRatio",
+    "defaultMessage": "Expense Ratio"
+  },
+  {
+    "id": "fund.netAssets",
+    "defaultMessage": "Net Assets"
+  }
+]

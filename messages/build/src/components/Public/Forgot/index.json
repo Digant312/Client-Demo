@@ -1,0 +1,14 @@
+[
+  {
+    "id": "forgot.sendResetCode",
+    "defaultMessage": "Send Reset Code"
+  },
+  {
+    "id": "forgot.emailAddress",
+    "defaultMessage": "Email Address"
+  },
+  {
+    "id": "forgot.emailGhostText",
+    "defaultMessage": "Please enter the email address you used to sign up with, or if you have changed it since then, the most recent one"
+  }
+]

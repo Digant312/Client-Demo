@@ -1,0 +1,22 @@
+[
+  {
+    "id": "fxForm.currencyPairLabel",
+    "defaultMessage": "Currency Pair"
+  },
+  {
+    "id": "fxForm.amountLabel",
+    "defaultMessage": "Amount"
+  },
+  {
+    "id": "fxForm.forwardRate",
+    "defaultMessage": "Forward Rate"
+  },
+  {
+    "id": "fxForm.valueDateLabel",
+    "defaultMessage": "Value Date"
+  },
+  {
+    "id": "fxForm.fixingDateLabel",
+    "defaultMessage": "Fixing Date"
+  }
+]

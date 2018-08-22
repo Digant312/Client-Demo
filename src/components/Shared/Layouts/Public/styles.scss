@@ -1,0 +1,57 @@
+@import '~styles/index';
+
+.public-layout-wrapper {
+  display: flex;
+  p {
+    text-align: justify;
+  }
+}
+
+.public-layout-panel {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  flex: 1;
+  padding: 40px;
+}
+
+.public-layout-content {
+  width: 350px;
+}
+
+.public-layout-panel-secondary {
+  @extend .public-layout-panel;
+  background-color: $darkColour;
+  flex-direction: column;
+  justify-content: flex-start;
+  flex: 1.5;
+  opacity: 0.75;
+  div {
+    width: 320px;
+  }
+}
+
+.public-panel {
+  width: 100%;
+}
+
+.public-panel-top {
+  @extend .public-panel;
+  height: 100px;
+  text-align: center;
+
+  img {
+    max-width: 100%;
+  }
+}
+
+.public-panel-main {
+  @extend .public-panel;
+}
+
+.public-panel-bottom {
+  img {
+    max-width: 100%;
+  }
+}
